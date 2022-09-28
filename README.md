@@ -1,11 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayribeirofernandes&label=Profile%20views&color=0e75b6&style=flat" alt="mayribeirofernandes" /> </p>
 
-<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+<img align="right" width="350" src="https://i.imgur.com/ntxGRTg.png"/>
 
-# Olá! Sou May Fernandes!👋
-## 👩‍💻 Specialist QA Engineer
+# Olá! Sou o Daniel Oliveira 👋
+## 👩‍💻 Analyst QA Pleno
 
-Desde 2010 atuo na área de testes de software, sou bacharel em Ciência da Computação, certificada CTAL-Test Automation Engineer e em mais algumas outras! Tenho experiência com testes manuais e automatizados de desktop, web, API e micro-serviços, mas minha especialidade e paixão são os testes de micro-serviços e API! Já atuei com desenvolvimento e implantação de testes automatizados com Robot Framework e *Continuous Testing* e atualmente sou Specialist QA Engineer pela [Neon Pagamentos S.A.](https://neon.com.br/).
+Formação em ciências da computação, Atuo na área de qualidade de software, fazendo parte de uma squad de automação de testes, entregando qualidade do produto desde criação até a entrega.
+
+Dedico meu tempo livre para estudar novas ferramentas e tecnologias que estão disponíveis na área de testes de software, para alcançar meu objetivo que planejei para minha carreira profissional (Especialista em qualidade de software) e atualmente sou QA Analyst Pleno pela [Sharecare](https://sharecare.com.br/).
 
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:ammmayara@hotmail.com)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayfernandes/)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/robot-framework-may-fernandes/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/joinchat/GysrsxRCsMM--5EkkguYYQ)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/mayfernandes)
 
