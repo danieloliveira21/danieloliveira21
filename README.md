@@ -9,7 +9,7 @@ Formação em ciências da computação, Atuo na área de qualidade de software,
 
 Dedico meu tempo livre para estudar novas ferramentas e tecnologias que estão disponíveis na área de testes de software, para alcançar meu objetivo que planejei para minha carreira profissional (Especialista em qualidade de software) e atualmente sou QA Analyst Pleno pela [Sharecare](https://sharecare.com.br/).
 
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:ammmayara@hotmail.com)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayfernandes/)[<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/robot-framework-may-fernandes/)[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/joinchat/GysrsxRCsMM--5EkkguYYQ)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/mayfernandes)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:suporte.blackshotsv@hotmail.com)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danieloliveiraqa/)[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/mayfernandes)
 
 ## 💻 Tecnologias
 
